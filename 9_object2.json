@@ -1,0 +1,21 @@
+{
+
+     
+    "properties"       : {
+    "name"             : { "type": "Pawel" },
+    "email"            : { "type": "pawel.rad@interia.pl" },
+
+    "lastKnownLocation": { 
+                           "x" : 52.57,
+                           "y" : 12.56
+                          },
+
+    "nickname"         : {"type" : "NickName"}
+   
+  
+
+
+
+
+}
+}
